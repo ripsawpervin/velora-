@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Royal Pearl Necklace",
+    "category": "Necklace",
+    "price_paise": 299900,
+    "image": "Image/n1.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "name": "Antique Floral Necklace",
+    "category": "Necklace",
+    "price_paise": 299900,
+    "image": "Image/n2.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 3,
+    "name": "Royal Bow Necklace",
+    "category": "Necklace",
+    "price_paise": 299900,
+    "image": "Image/n3.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 4,
+    "name": "Vintage Queen Necklace",
+    "category": "Necklace",
+    "price_paise": 299900,
+    "image": "Image/n4.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 5,
+    "name": "Tudor Gold Necklace",
+    "category": "Necklace",
+    "price_paise": 299900,
+    "image": "Image/n5.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 6,
+    "name": "Feather Blue Necklace",
+    "category": "Necklace",
+    "price_paise": 299900,
+    "image": "Image/n6.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 7,
+    "name": "Royal Emerald Earrings",
+    "category": "Earrings",
+    "price_paise": 199900,
+    "image": "Image/e1.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 8,
+    "name": "Vintage Blue Earrings",
+    "category": "Earrings",
+    "price_paise": 199900,
+    "image": "Image/e2.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 9,
+    "name": "Fairy Green Earrings",
+    "category": "Earrings",
+    "price_paise": 199900,
+    "image": "Image/e3.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 10,
+    "name": "Silver Pearl Earrings",
+    "category": "Earrings",
+    "price_paise": 199900,
+    "image": "Image/e4.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 11,
+    "name": "Vintage Fiery Earrings",
+    "category": "Earrings",
+    "price_paise": 199900,
+    "image": "Image/e5.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 12,
+    "name": "Antique Gold Earrings",
+    "category": "Earrings",
+    "price_paise": 199900,
+    "image": "Image/e6.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 13,
+    "name": "Fairy dragonfly Earrings",
+    "category": "Earrings",
+    "price_paise": 199900,
+    "image": "Image/e7.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 14,
+    "name": "Glittery butterfly Earrings",
+    "category": "Earrings",
+    "price_paise": 199900,
+    "image": "Image/e8.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 15,
+    "name": "Ethereal Green Earrings",
+    "category": "Earrings",
+    "price_paise": 199900,
+    "image": "Image/e9.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 16,
+    "name": "Heritage Fairy Ring",
+    "category": "Ring",
+    "price_paise": 119900,
+    "image": "Image/r1.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 17,
+    "name": "Vintage Red Ring",
+    "category": "Ring",
+    "price_paise": 119900,
+    "image": "Image/r2.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 18,
+    "name": "Fairy White Ring",
+    "category": "Ring",
+    "price_paise": 119900,
+    "image": "Image/r3.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 19,
+    "name": "Classic Ethereal Ring",
+    "category": "Ring",
+    "price_paise": 109900,
+    "image": "Image/r4.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 20,
+    "name": "Royal Sapphire Ring",
+    "category": "Ring",
+    "price_paise": 149900,
+    "image": "Image/r5.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 21,
+    "name": "Vintage Black Pendant",
+    "category": "Pendant",
+    "price_paise": 299900,
+    "image": "Image/p1.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 22,
+    "name": "Royal Queen Pendant",
+    "category": "Pendant",
+    "price_paise": 299900,
+    "image": "Image/p2.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 23,
+    "name": "Fairy Floral Pendant",
+    "category": "Pendant",
+    "price_paise": 169900,
+    "image": "Image/p3.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 24,
+    "name": "Vintage Ruby Pendant",
+    "category": "Pendant",
+    "price_paise": 169900,
+    "image": "Image/p4.jpeg",
+    "stock": 25
+  },
+  {
+    "id": 25,
+    "name": "Blucey Pendant",
+    "category": "Pendant",
+    "price_paise": 199900,
+    "image": "Image/p5.jpeg",
+    "stock": 25
+  }
+]
